@@ -1,0 +1,11 @@
+<!ELEMENT concesionario (vehiculo+)>
+<!ELEMENT vehiculo (marca,modelo,matricula,puertas,foto,color,tipo,precio,comentario)>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT matricula (#PCDATA)>
+<!ELEMENT puertas (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT comentario (#PCDATA)>

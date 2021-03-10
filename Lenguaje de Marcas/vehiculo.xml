@@ -1,0 +1,43 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concesionario SYSTEM "vehiculo.dtd">
+
+<concesionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="vehiculo.xsd">
+
+<vehiculo>
+    <marca>Seat</marca>
+    <modelo>Ateca</modelo>
+    <matricula>3030-ABCD</matricula>
+    <puertas>3</puertas>
+    <foto>https://static.motor.es/fotos-noticias/2018/08/min652x435/seat-leon-sc-mii-3-puertas-eliminados-201849077_2.jpg</foto>
+    <color>Rojo</color>
+    <tipo>Coche</tipo>
+    <precio>210.60</precio>
+    <comentario>Sea cual sea el estado de la carretera.</comentario>
+</vehiculo>
+
+<vehiculo>
+    <marca>Seat</marca>
+    <modelo> eScooter 125</modelo>
+    <matricula>6036-FCFC</matricula>
+    <puertas>0</puertas>
+    <foto>https://www.seat.es/content/countries/es/seat-website/es/modelos/seat-mo-escooter-125/_jcr_content/exteriorconfigurationcomponent/vehicleExterior/item0.resizedViewPort.scale.vehicleExteriorModelImage.jpg</foto>
+    <color>Rojo</color>
+    <tipo>Moto</tipo>
+    <precio>2.400</precio>
+    <comentario>Gracias </comentario>
+</vehiculo>
+
+<vehiculo>
+    <marca>Seat</marca>
+    <modelo>Doutrailer</modelo>
+    <matricula>5454-AAAA</matricula>
+    <puertas>3</puertas>
+    <foto>https://s03.s3c.es/imag/_v0/640x350/3/c/6/megatruck_camion_gigante_efe.jpg</foto>
+    <color>Azul</color>
+    <tipo>Camion</tipo>
+    <precio>163.50</precio>
+    <comentario>El motor diésel tendrá en el 1.6 TDI .</comentario>
+</vehiculo>
+
+</concesionario>
